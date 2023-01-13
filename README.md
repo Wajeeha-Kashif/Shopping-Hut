@@ -33,10 +33,7 @@ bills: _id, customerName, customerPhone, address, paymentMethod, totalAmount,  c
 
 ### How to Install and run the project
 Install npm packages
-#### npm i react-router-dom axios redux react-redux redux-thunk antd
-#### npm i body-parser color concurrently cors dotenv express mongoose morgan
-#### npm install --save-dev nodemon
-
+#### npm i react-router-dom axios redux react-redux redux-thunk antd body-parser color concurrently cors dotenv express mongoose morgan nodemon --force
 #### cd frontend 
 #### npm i react-router-dom redux-devtools-extension antd
 
