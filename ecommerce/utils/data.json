@@ -1,1 +1,72 @@
-
+[    {
+    "name":"Product 1",
+    "category":"cosmetics",
+    "price":2500,
+    "image":"/images/brushes.jpg"
+},
+{
+    "name":"Product 2",
+    "category":"sports",
+    "price":500,
+    "image":"/images/football.jpg"
+},
+{
+    "name":"Product 3",
+    "category":"cosmetics",
+    "price":300,
+    "image":"/images/nailpaint.jpg"
+},
+{
+    "name":"Product 4",
+    "category":"glasses",
+    "price":1200,
+    "image":"/images/shades.jpg"
+},
+{
+    "name":"Product 5",
+    "category":"bags",
+    "price":3000,
+    "image":"/images/bag1.jpg"
+},
+{
+    "name":"Product 6",
+    "category":"bags",
+    "price":3800,
+    "image":"/images/bag2.jpg"
+},
+{
+    "name":"Product 7",
+    "category":"bags",
+    "price":5000,
+    "image":"/images/bag3.jpg"
+},
+{
+    "name":"Product 8",
+    "category":"bags",
+    "price":2100,
+   " image":"/images/bag4.jpg"
+},
+{
+    "name":"Product 9",
+    "category":"bags",
+    "price":2000,
+    "image":"/images/bag5.jpg"
+},
+{
+    "name":"Product 10",
+    "category":"glasses",
+    "price":1500,
+    "image":"/images/shades2.jpg"
+},
+{
+    "name":"Product 11",
+    "category":"glasses",
+    "price":800,
+    "image":"/images/shades3.jpg"
+},
+{
+    "name":"Product 12",
+    "category":"glasses",
+    "price":700,
+    "image":"/images/shades4.jpg"
+}]
