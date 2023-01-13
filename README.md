@@ -37,7 +37,7 @@ Install npm packages
 #### npm i body-parser color concurrently cors dotenv express mongoose morgan
 #### npm install --save-dev nodemon
 
-cd frontend 
+#### cd frontend 
 #### npm i react-router-dom redux-devtools-extension antd
 
 
