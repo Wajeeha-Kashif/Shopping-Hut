@@ -1,4 +1,4 @@
-import LayoutApp from "../../components/Layout";
+import LayoutApp from "../../components/Layout"
 import React,{useEffect, useState} from "react";
 import axios from "axios";
 import FormItem from "antd/es/form/FormItem";
